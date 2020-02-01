@@ -1,0 +1,22 @@
+C:\Users\Rodrigo\Desktop\projeto teste\testeVocacional\testeVocacional\bin\Debug\testeVocacional.exe.config
+C:\Users\Rodrigo\Desktop\projeto teste\testeVocacional\testeVocacional\bin\Debug\testeVocacional.exe
+C:\Users\Rodrigo\Desktop\projeto teste\testeVocacional\testeVocacional\bin\Debug\testeVocacional.pdb
+C:\Users\Rodrigo\Desktop\projeto teste\testeVocacional\testeVocacional\obj\Debug\testeVocacional.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\Desktop\projeto teste\testeVocacional\testeVocacional\obj\Debug\testeVocacional.Properties.Resources.resources
+C:\Users\Rodrigo\Desktop\projeto teste\testeVocacional\testeVocacional\obj\Debug\testeVocacional.csproj.GenerateResource.Cache
+C:\Users\Rodrigo\Desktop\projeto teste\testeVocacional\testeVocacional\obj\Debug\testeVocacional.exe
+C:\Users\Rodrigo\Desktop\projeto teste\testeVocacional\testeVocacional\obj\Debug\testeVocacional.pdb
+C:\Users\Rodrigo\Desktop\projeto teste\testeVocacional\testeVocacional\obj\Debug\testeVocacional.frmperguntas.resources
+C:\Users\Rodrigo\Desktop\projeto teste\testeVocacional\testeVocacional\obj\Debug\testeVocacional.frmPrincipal.resources
+C:\Users\Rodrigo\Desktop\projeto teste\testeVocacional\testeVocacional\obj\Debug\testeVocacional.frmConfig.resources
+E:\meus arquivos\Faculdade\laboratorio de programação\trabalho teste vocacional\projeto teste\testeVocacional\testeVocacional\bin\Debug\testeVocacional.exe.config
+E:\meus arquivos\Faculdade\laboratorio de programação\trabalho teste vocacional\projeto teste\testeVocacional\testeVocacional\obj\Debug\testeVocacional.exe
+E:\meus arquivos\Faculdade\laboratorio de programação\trabalho teste vocacional\projeto teste\testeVocacional\testeVocacional\obj\Debug\testeVocacional.pdb
+E:\meus arquivos\Faculdade\laboratorio de programação\trabalho teste vocacional\projeto teste\testeVocacional\testeVocacional\obj\Debug\testeVocacional.csprojResolveAssemblyReference.cache
+E:\meus arquivos\Faculdade\laboratorio de programação\trabalho teste vocacional\projeto teste\testeVocacional\testeVocacional\obj\Debug\testeVocacional.frmConfig.resources
+E:\meus arquivos\Faculdade\laboratorio de programação\trabalho teste vocacional\projeto teste\testeVocacional\testeVocacional\obj\Debug\testeVocacional.frmPrincipal.resources
+E:\meus arquivos\Faculdade\laboratorio de programação\trabalho teste vocacional\projeto teste\testeVocacional\testeVocacional\obj\Debug\testeVocacional.frmperguntas.resources
+E:\meus arquivos\Faculdade\laboratorio de programação\trabalho teste vocacional\projeto teste\testeVocacional\testeVocacional\obj\Debug\testeVocacional.Properties.Resources.resources
+E:\meus arquivos\Faculdade\laboratorio de programação\trabalho teste vocacional\projeto teste\testeVocacional\testeVocacional\obj\Debug\testeVocacional.csproj.GenerateResource.Cache
+E:\meus arquivos\Faculdade\laboratorio de programação\trabalho teste vocacional\projeto teste\testeVocacional\testeVocacional\bin\Debug\testeVocacional.exe
+E:\meus arquivos\Faculdade\laboratorio de programação\trabalho teste vocacional\projeto teste\testeVocacional\testeVocacional\bin\Debug\testeVocacional.pdb
